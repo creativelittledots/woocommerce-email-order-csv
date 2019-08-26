@@ -1,7 +1,7 @@
 <?php
 /*
-* Plugin Name: WooCommerce Transmit Order CSV
-* Description: Automatically Sends a CSV to defined Email Addresses, FTP & sFTP locations at defined Order Statuses
+* Plugin Name: WooCommerce Email Order CSV
+* Description: Automatically Sends a CSV to defined Email Addresses at defined Order Statuses
 * Version: 1.0
 * Author: Creative Little Dots
 * Author URI: http://creativelittledots.co.uk
